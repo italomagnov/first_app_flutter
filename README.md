@@ -1,16 +1,5 @@
 # first_app
 
-A new Flutter project.
+Primeiro app feito em Flutter seguindo o curso da Alura: Flutter: Widgets, Stateless, Stateful, Imagens e Animações
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/58237887/194969289-647bcaa2-e137-4bd1-8dbb-0521d2cebc07.png)
